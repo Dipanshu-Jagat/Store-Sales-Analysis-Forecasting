@@ -7,3 +7,6 @@ A prominent aspect of this project involves employing the Power BI Forecast tool
 By thoroughly examining sales data from the superstore and strategically applying Power BI for sales forecasting, this project delivers indispensable insights to business owners and decision-makers. The precise sales forecasts derived from this process not only enhance planning but also serve as a crucial foundation for informed decision-making. Through the utilization of these insights, businesses can optimize resource allocation, refine their strategies, and catalyze sustainable growth.
 
 ![247012806-af69e5aa-65bd-43c6-983f-8a7eb23500b9](https://github.com/Dipanshu-Jagat/SuperStore-Sales-Analysis-Forecasting/assets/86709644/86ec2c1b-9681-4ed2-90a6-581ed0a21be5)
+
+![247012887-36ce41a5-fb68-4bf0-a90a-be5dadbe2523](https://github.com/Dipanshu-Jagat/SuperStore-Sales-Analysis-Forecasting/assets/86709644/98fc2fa7-6a9e-4016-93ad-fe6276699fb5)
+
